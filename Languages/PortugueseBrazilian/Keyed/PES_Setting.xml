@@ -4,7 +4,7 @@
   <PES_setting_notes>Notas:\n1.  Há uma explicação detalhada sobre as fórmulas da configuração abaixo.  Passe o mouse sobre ele e ele aparecerá \n2.  1 hora = 2500 ticks</PES_setting_notes>
   <PES_setting_detectioncoefficient>Coeficiente de Detecção</PES_setting_detectioncoefficient>
   <PE_setting_detectionMechanism>Configurações do mecanismo de detecção</PE_setting_detectionMechanism>
-  <PES_setting_detectionFormula>Formula de probabilidade de detecção: P = ( c - y ) / c * k\nEntão, este valor será fixado em [0.1, 0.8] (detect unknown caravan) or [0.2, 0.95] (detect detail information)</PES_setting_detectionFormula>
+  <PES_setting_detectionFormula>Formula de probabilidade de detecção: P = ( c - y ) / c * k\nEntão, este valor será fixado em [0.1, 0.8] (detecta caravana oculta) ou [0.2, 0.95] (detecta informação detalhada)</PES_setting_detectionFormula>
   <PES_setting_detectionExplain>A = Alcance de detecção\nB = Alcance de visão\nC = A - B\nx = ladrilhos restantes\ny = x - B\nk = o coeficiente abaixo\nP é a probabilidade final</PES_setting_detectionExplain>
   <PES_setting_caravanSpeed>É hora de uma caravana de incidentes cobrir um ladrilho no mapa mundial (em carrapatos)</PES_setting_caravanSpeed>
   <PES_setting_skyObject>Objetos do céu:</PES_setting_skyObject>
@@ -43,7 +43,7 @@
   <PES_setting_remedy_intimidation_b>Falha de intimidação e tiro pela culatra</PES_setting_remedy_intimidation_b>
   <PES_setting_remedy_beguilment>Sucesso de ilusão</PES_setting_remedy_beguilment>
   <PES_setting_mesintro>Ao tentar fazer contato com uma caravana, antes que as probabilidades acima sejam testadas, existe a probabilidade de esta mensagem transmitida ser recebida por eles ou não, ela é calculada por:</PES_setting_mesintro>
-  <PES_setting_mesExp>P = 1 - 0.2 * difficulty + offset   (P will be clamped to [0, 1])</PES_setting_mesExp>
-  <PES_setting_megTip>difficulty is 0 for Peaceful, 5 for Merciless;\noffset is the following value</PES_setting_megTip>
+  <PES_setting_mesExp>P = 1 - 0.2 * dificuldade + offset   (P será preso a [0, 1])</PES_setting_mesExp>
+  <PES_setting_megTip>dificuldade é 0 para Pacífico, 5 para Impiedoso;\ndeslocamento é o seguinte valor</PES_setting_megTip>
   <PES_setting_mesOffset>Compensação para a probabilidade de recebimento de mensagens</PES_setting_mesOffset>
 </LanguageData>
