@@ -4,8 +4,8 @@
   <PES_setting_notes>Notas:\n1.  Há uma explicação detalhada sobre as fórmulas da configuração abaixo.  Passe o mouse sobre ele e ele aparecerá \n2.  1 hora = 2500 ticks</PES_setting_notes>
   <PES_setting_detectioncoefficient>Coeficiente de Detecção</PES_setting_detectioncoefficient>
   <PE_setting_detectionMechanism>Configurações do mecanismo de detecção</PE_setting_detectionMechanism>
-  <PES_setting_detectionFormula>Detection probability Formula: P = ( c - y ) / c * k\nThen this value will be clamped to [0.1, 0.8] (detect unknown caravan) or [0.2, 0.95] (detect detail information)</PES_setting_detectionFormula>
-  <PES_setting_detectionExplain>A = Detection range\nB = Vision Range\nC = A - B\nx = remaining tiles\ny = x - B\nk = the coefficient below\nP is the final probability</PES_setting_detectionExplain>
+  <PES_setting_detectionFormula>Formula de probabilidade de detecção: P = ( c - y ) / c * k\nEntão, este valor será fixado em [0.1, 0.8] (detect unknown caravan) or [0.2, 0.95] (detect detail information)</PES_setting_detectionFormula>
+  <PES_setting_detectionExplain>A = Alcance de detecção\nB = Alcance de visão\nC = A - B\nx = ladrilhos restantes\ny = x - B\nk = o coeficiente abaixo\nP é a probabilidade final</PES_setting_detectionExplain>
   <PES_setting_caravanSpeed>É hora de uma caravana de incidentes cobrir um ladrilho no mapa mundial (em carrapatos)</PES_setting_caravanSpeed>
   <PES_setting_skyObject>Objetos do céu:</PES_setting_skyObject>
   <PES_setting_skyObject_Large_a>Tempo de aviso antes de impactos de grandes objetos no céu (em tiquetaques)</PES_setting_skyObject_Large_a>
