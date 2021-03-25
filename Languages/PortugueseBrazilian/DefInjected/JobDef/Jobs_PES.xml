@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_StandGuard.reportstring>Permanecendo de guarda no TargetA.</PES_StandGuard.reportstring>
+  <PES_OperateSentryArray.reportstring>Monitoramento de reconhecimento de drones no TargetA.</PES_OperateSentryArray.reportstring>
+  <PES_Job_InstallUpgrade.reportstring>Instalando a atualização no TargetA.</PES_Job_InstallUpgrade.reportstring>
+  <PES_Job_RefuelByNutrition.reportstring>reabastecimento TargetA.</PES_Job_RefuelByNutrition.reportstring>
+</LanguageData>

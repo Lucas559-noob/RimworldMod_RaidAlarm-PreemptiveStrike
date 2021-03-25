@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_StandGuard.label>StandGuard na WatchTower</PES_StandGuard.label>
+  <PES_StandGuard.verb>ficar de guarda</PES_StandGuard.verb>
+  <PES_StandGuard.gerund>guarda de pé</PES_StandGuard.gerund>
+  <PES_OperateSentryArray.label>Monitorar o console do Sentry Drone Array</PES_OperateSentryArray.label>
+  <PES_OperateSentryArray.verb>monitor</PES_OperateSentryArray.verb>
+  <PES_OperateSentryArray.gerund>monitoramento em</PES_OperateSentryArray.gerund>
+  <PES_InstallUpgrade.label>Instalação de atualização em edifícios Recon</PES_InstallUpgrade.label>
+  <PES_InstallUpgrade.verb>melhoria</PES_InstallUpgrade.verb>
+  <PES_InstallUpgrade.gerund>atualizando</PES_InstallUpgrade.gerund>
+  <PES_Refuel.label>reabastecer instalações de reconexão</PES_Refuel.label>
+  <PES_Refuel.verb>reabastecer</PES_Refuel.verb>
+  <PES_Refuel.gerund>reabastecimento</PES_Refuel.gerund>
+</LanguageData>

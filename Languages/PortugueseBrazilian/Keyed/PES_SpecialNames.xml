@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Animal herd -->
+  <PES_ManHunterName_1>Pacote {0} Ravenous</PES_ManHunterName_1>
+  <PES_ManHunterName_2>Pacote de {0} pânico</PES_ManHunterName_2>
+  <PES_ManHunterName_3>Pacote Horrendo {0}</PES_ManHunterName_3>
+  <PES_ManHunterName_4>Pacote Devorador {0}</PES_ManHunterName_4>
+  <!-- Mechanoids -->
+  <PES_MechName_1>Unidade de Eliminação {0}</PES_MechName_1>
+  <PES_MechName_2>Unidade de Erradicação {0}</PES_MechName_2>
+  <PES_MechName_3>Unidade de apagamento {0}</PES_MechName_3>
+  <PES_MechName_4>{0} Expungers</PES_MechName_4>
+  <PES_MechName_5>Unidade de Extermínio {0}</PES_MechName_5>
+  <!-- Farm Animal -->
+  <PES_FarmAnimal_1>Pacote Docile {0}</PES_FarmAnimal_1>
+  <!-- Migrating -->
+  <PES_MigrationName_1>Migrando {0} rebanho</PES_MigrationName_1>
+  <!-- Thurmbo -->
+  <PES_Thrumboname_1>Thrumbos errantes raros</PES_Thrumboname_1>
+  <!-- Traveler-->
+  <PES_TravelerName_1>Viajantes de {0}</PES_TravelerName_1>
+  <!-- Visitor -->
+  <PES_VisitorName_1>Visitantes de {0}</PES_VisitorName_1>
+  <!-- Trader -->
+  <PES_TraderName_1>Caravana comercial de {0}</PES_TraderName_1>
+</LanguageData>

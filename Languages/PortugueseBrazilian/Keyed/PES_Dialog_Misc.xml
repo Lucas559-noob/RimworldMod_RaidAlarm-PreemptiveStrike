@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <PES_UnknownFaction>Facção desconhecidacida</PES_UnknownFaction>
+
+  <PES_Persuade_noun>persuasão</PES_Persuade_noun>
+  <PES_intimidate_noun>intimidação</PES_intimidate_noun>
+  <PES_beguile_noun>BEGUILMENT</PES_beguile_noun>
+
+  <PES_SimpleConfirm>confirme</PES_SimpleConfirm>
+  <PES_Disconnect>desconectar</PES_Disconnect>
+  <PES_Cancel>Não importa.</PES_Cancel>
+  <PES_ConfirmChoice>Isso vale a pena tentar.</PES_ConfirmChoice>
+
+  <PES_Condition_Neutral>para amigos</PES_Condition_Neutral>
+  <PES_Condition_Hostile>Para inimigos</PES_Condition_Hostile>
+
+  <PES_Odds_VeryHigh>&lt;color=lime&gt;Chance Muito Alta&lt;/color&gt;</PES_Odds_VeryHigh>
+  <PES_Odds_High>&lt;color=green&gt;Chance Alta&lt;/color&gt;</PES_Odds_High>
+  <PES_Odds_Medium>&lt;color=cyan&gt;Chance Média&lt;/color&gt;</PES_Odds_Medium>
+  <PES_Odds_Low>&lt;color=#f0a1aa&gt;Chance Baixa&lt;/color&gt;</PES_Odds_Low>
+  <PES_Odds_VeryLow>&lt;color=red&gt;Chance Muito Baixa&lt;/color&gt;</PES_Odds_VeryLow>
+
+  <PES_ASHAME>infeliz</PES_ASHAME>
+  <PES_Reassuring>reconfortante</PES_Reassuring>
+  <PES_Nice>legais</PES_Nice>
+  <PES_RaiseAlarm>Inimigo recebido! Levante o alarme!</PES_RaiseAlarm>
+  <PES_trembling>tremendo...</PES_trembling>
+  <PES_DAMNIT>Droga!</PES_DAMNIT>
+
+  <PES_Friendly_Greeting>As pessoas de {0} cumprimentam {1} calorosamente e dizer que eles estão chegando muito em breve.</PES_Friendly_Greeting>
+  <PES_Friendly_Dismiss>Diga-lhes que não é um bom momento para visitar e enviá-los embora.</PES_Friendly_Dismiss>
+  <PES_Friendly_Dismissed>Eles reconhecem nossa mensagem e não irão dirigir para a nossa colônia.</PES_Friendly_Dismissed>
+
+</LanguageData>

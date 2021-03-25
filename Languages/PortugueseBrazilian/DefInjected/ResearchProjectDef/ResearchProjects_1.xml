@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_PrimitiveTower.label>Construção de torre primitiva</PES_PrimitiveTower.label>
+  <PES_PrimitiveTower.description>Construa torres de vigia primitivas para fornecer habilidade de reconhecimento básico.</PES_PrimitiveTower.description>
+  <PES_ModernTower.label>Torre de vigia moderna</PES_ModernTower.label>
+  <PES_ModernTower.description>Construa torres de vigia modernas que forneçam melhor capacidade de reconhecimento à colônia e possam ser instaladas com várias atualizações.</PES_ModernTower.description>
+  <PES_JoyRadio.label>Rádio Recreativa</PES_JoyRadio.label>
+  <PES_JoyRadio.description>Instale rádios em torres de vigia para proporcionar recreação às sentinelas.</PES_JoyRadio.description>
+  <PES_SearchLight.label>Tecnologia de iluminação avançada</PES_SearchLight.label>
+  <PES_SearchLight.description>Instale o holofote em uma torre de vigia para que possa ser usado durante a noite.</PES_SearchLight.description>
+  <PES_SkyIDL.label>Identificação de objeto grande do céu</PES_SkyIDL.label>
+  <PES_SkyIDL.description>Desbloqueie a capacidade da colônia de identificar grandes objetos do céu, como pedaços de navios e meteoritos, e prever sua posição de impacto, o que pode ajudar a colônia a reduzir algumas perdas.</PES_SkyIDL.description>
+  <PES_RADAR.label>Detecção e alcance de rádio</PES_RADAR.label>
+  <PES_RADAR.description>Construa um radar, um edifício de reconhecimento não tripulado com um grande alcance de detecção.</PES_RADAR.description>
+  <PES_SkyIDS.label>Identificação de objeto de céu pequeno</PES_SkyIDS.label>
+  <PES_SkyIDS.description>Desbloqueie a capacidade da colônia de identificar pequenos objetos celestes, como cápsulas descartáveis, e prever sua posição de impacto, o que pode ajudar a colônia a reduzir algumas perdas.</PES_SkyIDS.description>
+  <PES_InfestationDetection.label>Sistema de alerta precoce de terremoto</PES_InfestationDetection.label>
+  <PES_InfestationDetection.description>Adicione a capacidade de detectar infestações ao scanner de penetração no solo.</PES_InfestationDetection.description>
+  <PES_SentryArray.label>Drones de reconhecimento</PES_SentryArray.label>
+  <PES_SentryArray.description>Construa um conjunto de drones de sentinela, a última instalação de reconhecimento que oferece um amplo alcance de visão.</PES_SentryArray.description>
+  <PES_Satellite.label>Comunicação por satélite</PES_Satellite.label>
+  <PES_Satellite.description>Construir uplink de satélite de reconhecimento, a última instalação de reconhecimento que oferece um amplo alcance de detecção</PES_Satellite.description>
+</LanguageData>

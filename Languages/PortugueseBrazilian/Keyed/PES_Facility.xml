@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_Building_Installed>Atualização instalada:</PES_Building_Installed>
+  <PES_Building_ToInstall>Instale: {0}</PES_Building_ToInstall>
+  <PES_Building_UpdateInstalling>Instalando atualização: {0}\nProgresso: {1}%</PES_Building_UpdateInstalling>
+  <PES_Building_Delivered>Entregue: {0}</PES_Building_Delivered>
+  <PES_Building_UnUsableDark>Inutilizável quando está escuro.</PES_Building_UnUsableDark>
+  <PES_Building_UnUsableSolarFlare>Sinal bloqueado por explosão solar.</PES_Building_UnUsableSolarFlare>
+</LanguageData>

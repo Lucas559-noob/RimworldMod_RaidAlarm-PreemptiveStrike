@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_setting_default>Restaurar ao padrão</PES_setting_default>
+  <PES_setting_notes>Notas:\n1.  Há uma explicação detalhada sobre as fórmulas da configuração abaixo.  Passe o mouse sobre ele e ele aparecerá \n2.  1 hora = 2500 ticks</PES_setting_notes>
+  <PES_setting_detectioncoefficient>Coeficiente de Detecção</PES_setting_detectioncoefficient>
+  <PE_setting_detectionMechanism>Configurações do mecanismo de detecção</PE_setting_detectionMechanism>
+  <PES_setting_detectionFormula>Detection probability Formula: P = ( c - y ) / c * k\nThen this value will be clamped to [0.1, 0.8] (detect unknown caravan) or [0.2, 0.95] (detect detail information)</PES_setting_detectionFormula>
+  <PES_setting_detectionExplain>A = Detection range\nB = Vision Range\nC = A - B\nx = remaining tiles\ny = x - B\nk = the coefficient below\nP is the final probability</PES_setting_detectionExplain>
+  <PES_setting_caravanSpeed>É hora de uma caravana de incidentes cobrir um ladrilho no mapa mundial (em carrapatos)</PES_setting_caravanSpeed>
+  <PES_setting_skyObject>Objetos do céu:</PES_setting_skyObject>
+  <PES_setting_skyObject_Large_a>Tempo de aviso antes de impactos de grandes objetos no céu (em tiquetaques)</PES_setting_skyObject_Large_a>
+  <PES_setting_skyObject_Large_b>Tempo antes de identificar grandes objetos do céu (em tiquetaques)</PES_setting_skyObject_Large_b>
+  <PES_setting_skyObject_Small_a>Tempo de aviso antes da aterrissagem do pequeno objeto no céu (em tiquetaques)</PES_setting_skyObject_Small_a>
+  <PES_setting_skyObject_Small_b>Tempo antes de identificar pequenos objetos no céu (em tiques)</PES_setting_skyObject_Small_b>
+  <PES_setting_infestation>Tempo de aviso para infestações (em carrapatos)</PES_setting_infestation>
+  <PES_setting_negotiationProb>Configurações de negociação</PES_setting_negotiationProb>
+  <PES_setting_negotiationIntro>Todas as probabilidades a seguir são apenas valores básicos.  As probabilidades finais de cada ocorrência são baseadas nesta fórmula:  nPara resultado positivo: P = Base * NA  nPara resultado negativo: P = Base * (1 / NA);  P = Base / 2 (se NA for zero)  nE P será fixado em [0, 1]</PES_setting_negotiationIntro>
+  <PES_setting_negotiationTip>Base = following Base Values\nNA is the negotiation ability of the pawn. It is related to the social level of the pawn, and you can check it out in the information panel of the pawn in game. For a normal healthy pawn, it is 40% when level 1 and 190% when level 20. </PES_setting_negotiationTip>
+  <PES_setting_commintro>As probabilidades ao fazer contato com a caravana do incidente:</PES_setting_commintro>
+  <PES_setting_commpersuation_friend>Persuasão bem-sucedida (neutra)</PES_setting_commpersuation_friend>
+  <PES_setting_commpersuation_hostile>Persuasão bem-sucedida (hostil)</PES_setting_commpersuation_hostile>
+  <PES_setting_commintimidation_contact_friend>Intimidação bem-sucedida e contato (neutro)</PES_setting_commintimidation_contact_friend>
+  <PES_setting_commintimidation_frighten_friend>Intimidação bem-sucedida e assustar (neutro)</PES_setting_commintimidation_frighten_friend>
+  <PES_setting_commintimidation_contact_Hostile>Intimidação bem-sucedida e contato (hostil)</PES_setting_commintimidation_contact_Hostile>
+  <PES_setting_commintimidation_frighten_Hostile>Intimidação bem-sucedida e assustar (hostil)</PES_setting_commintimidation_frighten_Hostile>
+  <PES_setting_commbeguilment_friend>Beguilment bem-sucedido (neutro)</PES_setting_commbeguilment_friend>
+  <PES_setting_commbeguilment_Contact_hostile>Beguilement bem-sucedido e fazer contato (hostil)</PES_setting_commbeguilment_Contact_hostile>
+  <PES_setting_commbeguildment_frighten_hostile>Beguilment bem-sucedido e assustar (hostil)</PES_setting_commbeguildment_frighten_hostile>
+  <PES_setting_negintro>Os probablilites ao negociar sobre o objetivo do ataque:</PES_setting_negintro>
+  <PES_setting_neg_delay>Fazendo-os parar um pouco:</PES_setting_neg_delay>
+  <PES_setting_delay_persuasion>Sucesso de persuasão</PES_setting_delay_persuasion>
+  <PES_setting_delay_intimidation_s>Sucesso de intimidação</PES_setting_delay_intimidation_s>
+  <PES_setting_delay_intimidation_b>Falha de intimidação e tiro pela culatra</PES_setting_delay_intimidation_b>
+  <PES_setting_delay_beguilment>Sucesso de ilusão</PES_setting_delay_beguilment>
+  <PES_setting_neg_bargain>Barganhando com eles</PES_setting_neg_bargain>
+  <PES_setting_bargain_persuasion>Sucesso de persuasão</PES_setting_bargain_persuasion>
+  <PES_setting_bargain_intimidation_s>Sucesso de intimidação</PES_setting_bargain_intimidation_s>
+  <PES_setting_bargain_intimidation_b>Falha de intimidação e tiro pela culatra</PES_setting_bargain_intimidation_b>
+  <PES_setting_bargain_beguilment>Sucesso de ilusão</PES_setting_bargain_beguilment>
+  <PES_setting_neg_remedy>Pedindo a eles para mudarem uma meta de ataque</PES_setting_neg_remedy>
+  <PES_setting_remedy_persuasion>Sucesso de persuasão</PES_setting_remedy_persuasion>
+  <PES_setting_remedy_intimidation_s>Sucesso de intimidação</PES_setting_remedy_intimidation_s>
+  <PES_setting_remedy_intimidation_b>Falha de intimidação e tiro pela culatra</PES_setting_remedy_intimidation_b>
+  <PES_setting_remedy_beguilment>Sucesso de ilusão</PES_setting_remedy_beguilment>
+  <PES_setting_mesintro>Ao tentar fazer contato com uma caravana, antes que as probabilidades acima sejam testadas, existe a probabilidade de esta mensagem transmitida ser recebida por eles ou não, ela é calculada por:</PES_setting_mesintro>
+  <PES_setting_mesExp>P = 1 - 0.2 * difficulty + offset   (P will be clamped to [0, 1])</PES_setting_mesExp>
+  <PES_setting_megTip>difficulty is 0 for Peaceful, 5 for Merciless;\noffset is the following value</PES_setting_megTip>
+  <PES_setting_mesOffset>Compensação para a probabilidade de recebimento de mensagens</PES_setting_mesOffset>
+</LanguageData>

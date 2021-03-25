@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_SentryDroneArray.label>Array Sentry Drone</PES_SentryDroneArray.label>
+  <PES_SentryDroneArray.description>Um console de operação e monitor para vários drones de sentinela que são usados ​​para tarefas de reconhecimento e expandem muito o alcance de visão da colônia</PES_SentryDroneArray.description>
+  <PES_SentryDroneArray.comps.4.name>Rádio</PES_SentryDroneArray.comps.4.name>
+  <PES_SentryDroneArray.comps.4.description>Instale um rádio próximo a este console, para que o operador possa ouvi-lo enquanto monitora os drones.  Mantenha as necessidades recreativas do operador em um nível moderado.</PES_SentryDroneArray.comps.4.description>
+  <PES_Radar.label>Radar</PES_Radar.label>
+  <PES_Radar.description>Um sistema de detecção que usa ondas de rádio para determinar o alcance, o ângulo ou a velocidade dos objetos.  Pode ser usado para estender o alcance de detecção da colônia.</PES_Radar.description>
+  <PES_SpySatellite.label>Uplink de reconhecimento de satélite</PES_SpySatellite.label>
+  <PES_SpySatellite.description>Uma estação de uplink recebendo e transmitindo dados entre um satélite espião e a colônia, estendendo o alcance de detecção da colônia para cobrir uma grande área neste planeta</PES_SpySatellite.description>
+  <PES_PremitiveWatchtower_new.label>Torre de Vigia primitiva</PES_PremitiveWatchtower_new.label>
+  <PES_PremitiveWatchtower_new.description>Uma torre alta primitiva onde um colono pode servir como sentinela, mantendo um olho vigilante nos arredores, e quando o perigo se aproxima, alerta a colônia a tempo fazendo um sinal de fumaça.</PES_PremitiveWatchtower_new.description>
+  <PES_PremitiveWatchtower_new.comps.1.name>Armazenamento de entrega de alimentos</PES_PremitiveWatchtower_new.comps.1.name>
+  <PES_PremitiveWatchtower_new.comps.1.description>Instale uma pequena caixa para armazenar alimentos, de forma que os caminhões de sua colônia possam entregar alimentos (refeições cozidas) para o colono sentinela.</PES_PremitiveWatchtower_new.comps.1.description>
+  <PES_MedievalWatchtower.label>Torre de Vigia medieval</PES_MedievalWatchtower.label>
+  <PES_MedievalWatchtower.description>Uma torre medieval alta onde um colono pode servir de sentinela, mantendo um olhar vigilante nos arredores, e quando o perigo se aproxima, alerta a colônia a tempo fazendo um sinal de fumaça.</PES_MedievalWatchtower.description>
+  <PES_MedievalWatchtower.comps.1.name>Armazenamento de entrega de alimentos</PES_MedievalWatchtower.comps.1.name>
+  <PES_MedievalWatchtower.comps.1.description>Instale uma pequena caixa para armazenar alimentos, de forma que os caminhões de sua colônia possam entregar alimentos (refeições cozidas) para o colono sentinela.</PES_MedievalWatchtower.comps.1.description>
+  <PES_watchtower_new.label>Torre de vigia</PES_watchtower_new.label>
+  <PES_watchtower_new.description>A moderna tecnologia de construção tornou possível construir uma torre de vigia muito mais alta do que uma primitiva.  Além da altura, alguns aparelhos eletrônicos modernos podem fazer o colono de sentinela enxergar mais longe.  Pode funcionar sem eletricidade, mas fornece apenas metade do alcance de visão e alcance de detecção.</PES_watchtower_new.description>
+  <PES_watchtower_new.comps.6.name>Mini dispensador de pasta de nutrientes</PES_watchtower_new.comps.6.name>
+  <PES_watchtower_new.comps.6.description>Instale um distribuidor de pasta de nutrientes dentro da torre, de modo que os caminhões em sua colônia possam entregar alimentos crus diretamente para o colono sentinela.</PES_watchtower_new.comps.6.description>
+  <PES_watchtower_new.comps.7.name>Rádio</PES_watchtower_new.comps.7.name>
+  <PES_watchtower_new.comps.7.description>Instale um rádio dentro da torre de vigia, para que o colono sentinela possa ouvi-lo enquanto estiver em serviço de sentinela.  Mantenha as necessidades recreativas do sentinela em um nível moderado</PES_watchtower_new.comps.7.description>
+  <PES_watchtower_new.comps.8.name>Holofote</PES_watchtower_new.comps.8.name>
+  <PES_watchtower_new.comps.8.description>Com um holofote, a torre de vigia pode ser usada com 60% de eficiência quando está escuro ao custo de um consumo de energia extra de 500W.</PES_watchtower_new.comps.8.description>
+  <PES_watchtower_new.comps.9.name>Telescópio Tático</PES_watchtower_new.comps.9.name>
+  <PES_watchtower_new.comps.9.description>Com um telescópio instalado, a sentinela pode ver ainda mais longe na torre.  N + 50% Alcance de Visão  n + 50% Alcance de Detecção</PES_watchtower_new.comps.9.description>
+</LanguageData>

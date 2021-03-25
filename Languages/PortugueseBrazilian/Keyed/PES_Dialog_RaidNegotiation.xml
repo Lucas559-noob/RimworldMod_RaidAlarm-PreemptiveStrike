@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PES_RaidNeg_Proglog>Um membro da equipe de invasão "{0}" atende a chamada.  Esta equipe de invasão é de {1}.</PES_RaidNeg_Proglog>
+  <PES_RaidNeg_SurrenderSuccess>Depois que sua demanda foi atendida, a equipe de invasão {0} se afastou e não está mais se dirigindo para a colônia.</PES_RaidNeg_SurrenderSuccess>
+  <PES_RaidNeg_Attitude_Rude>Murmurando um insulto,</PES_RaidNeg_Attitude_Rude>
+  <PES_RaidNeg_Attitude_Polite>Falando com uma cortesia inesperada,</PES_RaidNeg_Attitude_Polite>
+  <!-- Goal explanation-->
+  <PES_RaidNeg_GoalExp_Extortion>eles nos disseram que lançaram este ataque para nos forçar a pagar a eles um tributo de:  n {0} x Prata  n (pode ser pago com prata ou ouro ou ambos combinados, 1 ouro = 10 prata)</PES_RaidNeg_GoalExp_Extortion>
+  <PES_RaidNeg_GoalExp_Rescue>eles nos contam que lançaram esta operação para resgatar alguns de seus companheiros que foram feitos prisioneiros por nossa colônia.  Os prisioneiros que eles exigem que libertemos incluem:  n {0}</PES_RaidNeg_GoalExp_Rescue>
+  <PES_RaidNeg_GoalExp_Revenge>eles nos dizem que lançaram este ataque para vingar a morte de {0} que foi morto por nossa colônia.  Eles exigem que executemos o assassino {1}.</PES_RaidNeg_GoalExp_Revenge>
+  <PES_RaidNeg_GoalExp_Despoil>eles nos dizem que lançaram esse ataque simplesmente por necessidade de despojos.  Eles exigem que entreguemos as seguintes coisas:</PES_RaidNeg_GoalExp_Despoil>
+  <PES_RaidNeg_GoalExp_Enslave>eles nos dizem que este é um ataque escravista e querem tirar e escravizar o seguinte colono:  n {0}</PES_RaidNeg_GoalExp_Enslave>
+  <PES_RaidNeg_GoalExp_Conquer>eles nos dizem que lançaram este ataque a fim de conquistar esta terra para sua facção, fazendo desta colônia seu novo território.</PES_RaidNeg_GoalExp_Conquer>
+  <PES_RaidNeg_DemandSurrender_rude>Eles exigem nossa rendição imediata e ameaçam arrasar a colônia se suas exigências não forem atendidas.</PES_RaidNeg_DemandSurrender_rude>
+  <PES_RaidNeg_DemandSurrender_Polite>Eles expressam seu desejo de evitar baixas desnecessárias e nos pedem que consideremos suas demandas.</PES_RaidNeg_DemandSurrender_Polite>
+  <!-- Rebuff words-->
+  <PES_RaidNeg_Rebuff_Head>[Repelir]:</PES_RaidNeg_Rebuff_Head>
+  <PES_RaidNeg_Rebuff_Rescue>Execute os prisioneiros para fazer uma declaração.</PES_RaidNeg_Rebuff_Rescue>
+  <PES_RaidNeg_Rebuff_Despoil>Ameace-os com uma luta.</PES_RaidNeg_Rebuff_Despoil>
+  <PES_RaidNeg_Rebuff_Revenge></PES_RaidNeg_Rebuff_Revenge>
+  <PES_RaidNeg_Rebuff_Enslave></PES_RaidNeg_Rebuff_Enslave>
+  <PES_RaidNeg_Rebuff_Conquer></PES_RaidNeg_Rebuff_Conquer>
+  <PES_RaidNeg_Rebuff_Extortion>Ameace-os com uma luta.</PES_RaidNeg_Rebuff_Extortion>
+  <PES_RaidNeg_Rebuff_Rescue_Fail>Não disponível.  Este negociador é incapaz de violência.</PES_RaidNeg_Rebuff_Rescue_Fail>
+  <PES_RaidNeg_Rebuff_Confirmation>Você tem certeza de que quer fazer isso?</PES_RaidNeg_Rebuff_Confirmation>
+  <PES_RaidNeg_Rebuff_Confirmation_Rescue>Os seguintes prisioneiros serão executados imediatamente:</PES_RaidNeg_Rebuff_Confirmation_Rescue>
+  <PES_RaidNeg_Rebuff_Explanation>Isso aumentará o moral de todos os colonos com base nas habilidades sociais de {0}.  Mas cuidado, se a habilidade social do negociador atual for muito fraca, o tiro pode sair pela culatra.   n  n Por outro lado, o inimigo ficará furioso.  O objetivo deste grupo de invasão mudará para SMITE, e você não poderá mais se comunicar com eles.  Além disso, esta equipe de ataque será reforçada (aleatoriamente de 25% a 100% do poder atual).  N</PES_RaidNeg_Rebuff_Explanation>
+  <PES_RaidNeg_NegDeeper>Tente negociar sobre a demanda deles.</PES_RaidNeg_NegDeeper>
+  <PES_RaidNeg_NegDeeper_Prolog>Como você quer negociar?</PES_RaidNeg_NegDeeper_Prolog>
+  <PES_RaidNeg_NegDeeper_Surrender>Aquiesce às suas demandas.</PES_RaidNeg_NegDeeper_Surrender>
+  <PES_RaidNeg_NegDeeper_Bargain>Tente negociar com eles.</PES_RaidNeg_NegDeeper_Bargain>
+  <!-- delays-->
+  <PES_RaidNeg_Delay>Convença-os a desacelerar.</PES_RaidNeg_Delay>
+  <PES_RaidNeg_Delay_Intro>O que devemos dizer a eles para impedi-los de se aproximar de nossa colônia?</PES_RaidNeg_Delay_Intro>
+  <PES_RaidNeg_Delay_Staging>Eles já pararam de marchar.  Tempo Restante: {0}</PES_RaidNeg_Delay_Staging>
+  <PES_RaidNeg_Delay_CoolDown>Só podemos tentar perguntar isso a cada hora.  Tempo Restante: {0}</PES_RaidNeg_Delay_CoolDown>
+  <PES_RaidNeg_Delay_DoneBefore>Só podemos pedir que façam isso uma vez.</PES_RaidNeg_Delay_DoneBefore>
+  <PES_RaidNeg_Delay_Success_Name>para atrasar o ataque</PES_RaidNeg_Delay_Success_Name>
+  <PES_RaidNeg_Delay_Smite_Name>para deixá-los com raiva e nos punir</PES_RaidNeg_Delay_Smite_Name>
+  <PES_RaidNeg_Delay_Persuasion>"Dê-nos algum tempo para pensar sobre isso. Isso é bom para você e para nós."</PES_RaidNeg_Delay_Persuasion>
+  <PES_RaidNeg_Delay_Intimidation_Rescue>"Precisamos de tempo para discutir sua sugestão. Não se aproxime mais de nossa colônia ou executaremos os prisioneiros que você deseja agora mesmo!"</PES_RaidNeg_Delay_Intimidation_Rescue>
+  <PES_RaidNeg_Delay_Intimidation_Despoil>"Precisamos de tempo para discutir sua sugestão. Não se aproxime mais de nossa colônia, ou você não obterá nada além de nosso fogo de morteiro!"</PES_RaidNeg_Delay_Intimidation_Despoil>
+  <PES_RaidNeg_Delay_Intimidation_Revenge>"Precisamos de tempo para discutir sua sugestão. Não se aproxime mais de nossa colônia, ou você não obterá nada além de nosso fogo de morteiro!"</PES_RaidNeg_Delay_Intimidation_Revenge>
+  <PES_RaidNeg_Delay_Intimidation_Enslave>"Precisamos de tempo para discutir sua sugestão. Não se aproxime mais de nossa colônia, ou você não obterá nada além de nosso fogo de morteiro!"</PES_RaidNeg_Delay_Intimidation_Enslave>
+  <PES_RaidNeg_Delay_Intimidation_Extortion>"Precisamos de tempo para discutir sua sugestão. Não se aproxime mais de nossa colônia, ou você não obterá nada além de nosso fogo de morteiro!"</PES_RaidNeg_Delay_Intimidation_Extortion>
+  <PES_RaidNeg_Delay_Beguilement_Rescue>"Os prisioneiros que você quer estão em uma de nossas caravanas comerciais. Pare de marchar e nos dê algum tempo para mandá-los de volta aqui."</PES_RaidNeg_Delay_Beguilement_Rescue>
+  <PES_RaidNeg_Delay_Beguilement_Despoil>"Não temos recursos suficientes aqui em nossa colônia. Estamos transportando alguns recursos de nossa caravana comercial. Dê-nos algum tempo e pare de marchar."</PES_RaidNeg_Delay_Beguilement_Despoil>
+  <PES_RaidNeg_Delay_Beguilement_Revenge>"A pessoa que você quer não está aqui nesta colônia, mas em uma de nossas caravanas comerciais. Estamos chamando essa pessoa de volta, então pare de combinar e nos dê algum tempo."</PES_RaidNeg_Delay_Beguilement_Revenge>
+  <PES_RaidNeg_Delay_Beguilement_Enslave>"A pessoa que você quer não está aqui nesta colônia, mas em uma de nossas caravanas comerciais. Estamos chamando essa pessoa de volta, então pare de combinar e nos dê algum tempo."</PES_RaidNeg_Delay_Beguilement_Enslave>
+  <PES_RaidNeg_Delay_Beguilement_Extortion>"Não temos prata suficiente aqui em nossa colônia. Estamos convocando nossa caravana comercial para trazer um pouco de prata. Dê-nos algum tempo e pare de marchar."</PES_RaidNeg_Delay_Beguilement_Extortion>
+  <PES_RaidNeg_Delay_Success>{0} concorda em parar um pouco.  No entanto, eles dizem que só vão parar por três horas.  Após três horas, caso sua demanda ainda não seja atendida, eles seguirão em direção à colônia.</PES_RaidNeg_Delay_Success>
+  <PES_RaidNeg_Delay_Fail>Eles rejeitam nossa sugestão e continuam marchando em direção à colônia.</PES_RaidNeg_Delay_Fail>
+  <PES_RaidNeg_Delay_Smite>Eles se sentem insultados por nossa tentativa de intimidação e não se comunicarão mais conosco.</PES_RaidNeg_Delay_Smite>
+  <!-- Goals -->
+  <PES_RaidNeg_NegCoolDown>Só podemos negociar uma vez por hora.  Tempo Restante: {0}</PES_RaidNeg_NegCoolDown>
+  <PES_RaidNeg_NegDeeper_Surrender_Comfirmation>Tem certeza de que deseja ceder à demanda deles?</PES_RaidNeg_NegDeeper_Surrender_Comfirmation>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_Conquer>Não disponível.  Se aceitarmos, este jogo não será mais jogável.</PES_RaidNeg_NegDeeper_Surrender_Fail_Conquer>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_NoMoney>Não disponível.  Não temos prata ou ouro suficientes.</PES_RaidNeg_NegDeeper_Surrender_Fail_NoMoney>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_Prisoner>Não disponível.  Pelo menos um dos prisioneiros não está disponível.</PES_RaidNeg_NegDeeper_Surrender_Fail_Prisoner>
+  <PES_RaidNeg_NegDeeper_Surrender_Fail_Enslave>Não disponível.  Pelo menos um dos colonos que eles querem não está disponível.</PES_RaidNeg_NegDeeper_Surrender_Fail_Enslave>
+  <PES_RaidNeg_NegDeeper_Bargain_Intro>Até que ponto você deseja reduzir sua demanda?</PES_RaidNeg_NegDeeper_Bargain_Intro>
+  <PES_RaidNeg_NegDeeper_Bargin_Begin>O que devemos dizer a eles?</PES_RaidNeg_NegDeeper_Bargin_Begin>
+  <PES_RaidNeg_NegDeeper_Bargain_Invalid_Conquer>Não disponível.  Eles querem o controle total da colônia.</PES_RaidNeg_NegDeeper_Bargain_Invalid_Conquer>
+  <PES_RaidNeg_NegDeeper_Bargain_Invalid_OnePrisoner>Não disponível.  Eles só querem um prisioneiro.  Não é possível reduzir ainda mais essa demanda.</PES_RaidNeg_NegDeeper_Bargain_Invalid_OnePrisoner>
+  <PES_RaidNeg_NegDeeper_Bargain_Invalid_OneSlave>Não disponível.  Eles só querem um colono.  Não é possível reduzir ainda mais essa demanda</PES_RaidNeg_NegDeeper_Bargain_Invalid_OneSlave>
+  <PES_RaidNeg_NegDeeper_Bargain_Option_Prisoner>{0} menos prisioneiro (es)</PES_RaidNeg_NegDeeper_Bargain_Option_Prisoner>
+  <PES_RaidNeg_NegDeeper_Bargain_Option_Enslave>{0} menos colono (s)</PES_RaidNeg_NegDeeper_Bargain_Option_Enslave>
+  <PES_RaidNeg_NegDeeper_Bargain_Success>Eles concordaram em reduzir sua demanda.</PES_RaidNeg_NegDeeper_Bargain_Success>
+  <PES_RaidNeg_NegDeeper_Bargain_Fail>Eles recusaram nossa sugestão de reduzir sua demanda, e a demanda continuará a mesma.</PES_RaidNeg_NegDeeper_Bargain_Fail>
+  <PES_raidNeg_NegDeeper_Bargain_Smite>Eles se sentem insultados por nossa tentativa de negociação e não se comunicarão mais conosco.</PES_raidNeg_NegDeeper_Bargain_Smite>
+  <PES_raidNeg_NegDeeper_Bargain_Success_Name>para fazê-los aceitar nossa sugestão</PES_raidNeg_NegDeeper_Bargain_Success_Name>
+  <PES_RaidNeg_Negdeeper_Bargain_Smite_Name>para deixá-los com raiva e nos punir</PES_RaidNeg_Negdeeper_Bargain_Smite_Name>
+  <!--Remedy-->
+  <PES_RaidNeg_NegDeeper_Remedy>Não é possível atender sua demanda.  Tente dar-lhes outra coisa como remédio.  N</PES_RaidNeg_NegDeeper_Remedy>
+  <PES_RaidNeg_Sub_Intro>Podemos oferecer a eles:</PES_RaidNeg_Sub_Intro>
+  <PES_RaidNeg_Sub_Rescue>Em vez disso, solte seus prisioneiros</PES_RaidNeg_Sub_Rescue>
+  <PES_RaidNeg_Sub_Extortion>Em vez disso, pague-lhes algum dinheiro</PES_RaidNeg_Sub_Extortion>
+  <PES_RaidNeg_Sub_Rescue_NoPrisoner>Nenhum prisioneiro de sua facção está sob nossa custódia</PES_RaidNeg_Sub_Rescue_NoPrisoner>
+  <PES_RaidNeg_Sub_success>Eles aceitaram nossa sugestão!  Seu objetivo de invasão mudou.</PES_RaidNeg_Sub_success>
+  <PES_RaidNeg_Sub_Fail>Eles recusaram nossa sugestão!  Seu objetivo de invasão permanece o mesmo...</PES_RaidNeg_Sub_Fail>
+</LanguageData>
