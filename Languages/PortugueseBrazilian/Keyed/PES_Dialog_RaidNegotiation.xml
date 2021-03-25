@@ -5,11 +5,11 @@
   <PES_RaidNeg_Attitude_Rude>Murmurando um insulto,</PES_RaidNeg_Attitude_Rude>
   <PES_RaidNeg_Attitude_Polite>Falando com uma cortesia inesperada,</PES_RaidNeg_Attitude_Polite>
   <!-- Goal explanation-->
-  <PES_RaidNeg_GoalExp_Extortion>eles nos disseram que lançaram este ataque para nos forçar a pagar a eles um tributo de:  n {0} x Prata  n (pode ser pago com prata ou ouro ou ambos combinados, 1 ouro = 10 prata)</PES_RaidNeg_GoalExp_Extortion>
-  <PES_RaidNeg_GoalExp_Rescue>eles nos contam que lançaram esta operação para resgatar alguns de seus companheiros que foram feitos prisioneiros por nossa colônia.  Os prisioneiros que eles exigem que libertemos incluem:  n {0}</PES_RaidNeg_GoalExp_Rescue>
+  <PES_RaidNeg_GoalExp_Extortion>eles nos disseram que lançaram este ataque para nos forçar a pagar a eles um tributo de:\n {0}x Prata \n(pode ser pago com prata ou ouro ou ambos combinados, 1 ouro = 10 prata)</PES_RaidNeg_GoalExp_Extortion>
+  <PES_RaidNeg_GoalExp_Rescue>eles nos contam que lançaram esta operação para resgatar alguns de seus companheiros que foram feitos prisioneiros por nossa colônia.  Os prisioneiros que eles exigem que libertemos incluem:\n {0}</PES_RaidNeg_GoalExp_Rescue>
   <PES_RaidNeg_GoalExp_Revenge>eles nos dizem que lançaram este ataque para vingar a morte de {0} que foi morto por nossa colônia.  Eles exigem que executemos o assassino {1}.</PES_RaidNeg_GoalExp_Revenge>
   <PES_RaidNeg_GoalExp_Despoil>eles nos dizem que lançaram esse ataque simplesmente por necessidade de despojos.  Eles exigem que entreguemos as seguintes coisas:</PES_RaidNeg_GoalExp_Despoil>
-  <PES_RaidNeg_GoalExp_Enslave>eles nos dizem que este é um ataque escravista e querem tirar e escravizar o seguinte colono:  n {0}</PES_RaidNeg_GoalExp_Enslave>
+  <PES_RaidNeg_GoalExp_Enslave>eles nos dizem que este é um ataque escravista e querem tirar e escravizar o seguinte colono:\n{0}</PES_RaidNeg_GoalExp_Enslave>
   <PES_RaidNeg_GoalExp_Conquer>eles nos dizem que lançaram este ataque a fim de conquistar esta terra para sua facção, fazendo desta colônia seu novo território.</PES_RaidNeg_GoalExp_Conquer>
   <PES_RaidNeg_DemandSurrender_rude>Eles exigem nossa rendição imediata e ameaçam arrasar a colônia se suas exigências não forem atendidas.</PES_RaidNeg_DemandSurrender_rude>
   <PES_RaidNeg_DemandSurrender_Polite>Eles expressam seu desejo de evitar baixas desnecessárias e nos pedem que consideremos suas demandas.</PES_RaidNeg_DemandSurrender_Polite>
