@@ -26,12 +26,12 @@
   <PES_AnimalType_Unknown>Tipo de animal não identificado</PES_AnimalType_Unknown>
   <PES_Unknown_SkyObject_Large>Objeto de céu grande não identificado</PES_Unknown_SkyObject_Large>
   <PES_Unknown_SkyObject_Small>Objeto de céu pequeno não identificado</PES_Unknown_SkyObject_Small>
-  <PES_Skyfaller_raid>Ataque do Pod de Queda Inimigo Incoming</PES_Skyfaller_raid>
+  <PES_Skyfaller_raid>Pod de Ataque de Inimigo Chegando</PES_Skyfaller_raid>
   <PES_Skyfaller_Meteorite>Queda de meteorito</PES_Skyfaller_Meteorite>
-  <PES_Skyfaller_ResourcePod>Pod de recursos de entrada</PES_Skyfaller_ResourcePod>
-  <PES_Skyfaller_RefugeePod>Pod de Refugiados de Entrada</PES_Skyfaller_RefugeePod>
-  <PES_Skyfaller_ShipChunk>Queda de pedaços de navio</PES_Skyfaller_ShipChunk>
-  <PES_Skyfaller_ShipPart>Parte do navio antigo em queda</PES_Skyfaller_ShipPart>
+  <PES_Skyfaller_ResourcePod>Pod de recursos caindo</PES_Skyfaller_ResourcePod>
+  <PES_Skyfaller_RefugeePod>Pod de Refugiados caindo</PES_Skyfaller_RefugeePod>
+  <PES_Skyfaller_ShipChunk>Queda de pedaços de nave</PES_Skyfaller_ShipChunk>
+  <PES_Skyfaller_ShipPart>Parte da nave antiga em queda</PES_Skyfaller_ShipPart>
   <PES_Infestation_Title>Alerta de infestação</PES_Infestation_Title>
   <PES_Unknown_HumanCrowd>Multidão Humana Não Identificada</PES_Unknown_HumanCrowd>
   <PES_Unknown_AnimalHerd>Rebanho de animais não identificados</PES_Unknown_AnimalHerd>
